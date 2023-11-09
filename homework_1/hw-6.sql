@@ -1,0 +1,5 @@
+SELECT * 
+FROM Products
+WHERE CategoryID = 4
+ORDER BY Price DESC
+LIMIT 2

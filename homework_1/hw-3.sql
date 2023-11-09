@@ -1,0 +1,3 @@
+SELECT  
+Country
+FROM Suppliers;
